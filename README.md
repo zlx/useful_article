@@ -15,3 +15,8 @@
 ## work style
 
 * [xdite 第一家公司的协作方式](http://ihower.tw/blog/archives/2369/)
+
+
+## books
+
+* [objects on rails online book](http://objectsonrails.com/)
