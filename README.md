@@ -20,3 +20,4 @@
 ## books
 
 * [objects on rails online book](http://objectsonrails.com/)
+* [Ruby Science](https://learn.thoughtbot.com/products/13)
