@@ -11,6 +11,10 @@
 * [vim tutorial game](http://www.openvim.com/tutorial.html)
 * [xdite 的 rails 学习列表](http://blog.xdite.net/posts/2013/01/30/2013-reading-list/)
 
+## Best Practices
+
+* [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+
 
 ## work style
 
