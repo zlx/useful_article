@@ -10,3 +10,8 @@
 * [learn vim progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
 * [vim tutorial game](http://www.openvim.com/tutorial.html)
 * [xdite 的 rails 学习列表](http://blog.xdite.net/posts/2013/01/30/2013-reading-list/)
+
+
+## work style
+
+* [xdite 第一家公司的协作方式](http://ihower.tw/blog/archives/2369/)
