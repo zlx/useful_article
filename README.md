@@ -7,3 +7,4 @@
 ## Guides
 
 * [learn vim progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+* [vim tutorial game](http://www.openvim.com/tutorial.html)
