@@ -13,7 +13,7 @@
 
 ## Best Practices
 
-* [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
+* [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)  [中文版本](https://github.com/zlx/userful_article/edit/master/best_practices/7_patterns_to_refactor_fat_ActiveRecord_Models.md)
 
 
 ## work style
