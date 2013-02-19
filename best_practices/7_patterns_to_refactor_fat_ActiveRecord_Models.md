@@ -1,4 +1,3 @@
-
 重构臃肿 ActiveRecord 模型的 7 种方式
 =====================================
 
@@ -24,7 +23,7 @@
 
 现在，让我们开始。
 
-+ ## 分离值对象(value Objects)
+## 分离值对象(value Objects)
 
 [值对象](http://c2.com/cgi/wiki?ValueObject)是一种依赖于其值而不是他的类型的简单对象。它们通常是不变的。 Date , URI 和 Pathname 是 Ruby 标准库里面的值对象例子，你也可以在你的程序里面定义自己的值对象（当然应该可以）。将它们分离出 ActiveRecord 是一个比较容易做到的重构果子。
 
@@ -90,17 +89,17 @@ end
 
 除了给 ConstantSnapshot 类减肥以外，它还有其它好处：
 
-1. #worse_than? 和 better_than? 方法提供了一个比 Ruby 内置的操作（比如说 < 和 > ）更好的方式来比较 Rating 。
+1. `#worse_than?` 和 `#better_than?` 方法提供了一个比 Ruby 内置的操作（比如说 < 和 > ）更好的方式来比较 Rating 。
 
-2. 定义了 #hash 和 #eql? 方法，使我们可以使用 Rating 来作为 hash 的键值(key)。 Code Climate 习惯按照 Rating 来给常量分组。
+2. 定义了 `#hash` 和 `#eql?` 方法，使我们可以使用 Rating 来作为 hash 的键值(key)。 Code Climate 习惯按照 Rating 来给常量分组。
 
-3. #to_s 方法使我们方便地将 Rating 插入到字符串中。
+3. `#to_s` 方法使我们方便地将 Rating 插入到字符串中。
 
 4. 类的定义给了我们一个很好的地方来放置工厂方法，让我们可以根据给定的”补救时间（修复所有坏味道的预期时间）”返回对应的 Rating 对象。
 
 
 
-+ ## 分离出服务对象（Service Objects）
+## 分离出服务对象（Service Objects）
 
 一个系统中的有些 action 需要一个服务对象来封装它们的操作。如果一个 action 满足以下的某个条件，我会使用服务对象。
 
@@ -152,7 +151,7 @@ class SessionsController < ApplicationController
 end
 ```
 
-+ ## 分离出表单对象(Form Objects)
+## 分离出表单对象(Form Objects)
 
 当一个表单需要更新很多个 ActiveRecord 模型时，一个表单对象可以很好的实现封装。这样比使用 [accepts_nested_attributes_for](http://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html) 要清晰多了， 后者在我看来应该过时了。一个普遍的例子是一个注册的表单，他可能需要创建 Company 和 User 对象：
 
@@ -215,7 +214,7 @@ end
 
 这样做对于简单的情况是适用的，但是如果表单里面的持久化逻辑非常复杂的话，你可以和服务对象一起使用。另外一个好处是，因为验证逻辑是上下文相关的，它可以定义在关心它的地方，而不是都放在 ActiveRecord 里面。
 
-+ ## 分离出查询对象(Query Objects)
+## 分离出查询对象(Query Objects)
 
 对于弄乱你的 ActiveRecord 子类（比如说 scope 或者类方法）的复杂的查询语句，可以考虑使用查询对象。每个查询对象只负责根据业务规则返回结果集。比如说：一个找出废弃的试验的查询对象可以这样写：
 
@@ -251,7 +250,7 @@ old_abandoned_trials = AbandonedTrialQuery.new(old_accounts)
 不要担心这样单独的类会变得难以测试。使用测试来将这些对象和数据库合在一起来保证它返回正确的结果，并且关联和预加载都正常工作。（比如：避免 N + 1 查询问题)。
 
 
-+ ## 介绍 View Objects
+## 介绍 View Objects
 
 如果逻辑仅仅用于显示，那它就不应该归属于模型。问问你自己，“如果在实现这个应用的了一个接口，比如说基于语音的用户界面，我是否需要它？”，如果不是，那就把它放到 helper 或者一个 View Objects 里面。
 
@@ -278,7 +277,7 @@ end
 注意： *这个术语“ Presenter ”是在 Ruby 社区里面提出来的，但我讨厌它，因为他很笨重，使用起来容易和其它东西冲突*
 “ Presenter ”这个术语是 [Jay Fields 提出](http://blog.jayfields.com/2007/03/rails-presenter-pattern.html)用来描述我前面说的表单对象的，但是， 不幸的是，Rails 使用“ view ” 来描述不同于“ templates ”以外的东西。为了避免二义性，我有时候把 View Objects 叫做 View Models  。 
 
-+ ## 分离出 Policy Objects
+## 分离出 Policy Objects
 
 有时候，复杂的读操作需要分别处理它们自己的对象，这时候，我会用 Policy Objects 。这样可以让你将逻辑切片，像找出哪些是活跃用户来达到分析的目的，和你的核心业务对象分离开。比如：
 
@@ -299,7 +298,7 @@ end
 
 Policy Objects 和服务对象很相似，但是，我用服务对象来完成写操作， Policy Objects 来完成读操作。它们和查询对象也很相似，但是查询对象关注执行查询语句并返回结果集，然后 Policy Objects 对一个已经加载到内存中的模型操作。
 
-+ ## 分离装饰器
+## 分离装饰器
 
 装饰器让你可以对现有操作分层，所以它和回调有点像。当回调逻辑仅仅只在某些环境中使用或者将它包含在模型里会给模型增加太多权责，装饰器是很有用的。
 
