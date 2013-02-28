@@ -11,6 +11,7 @@
 * [vim tutorial game](http://www.openvim.com/tutorial.html)
 * [xdite 的 rails 学习列表](http://blog.xdite.net/posts/2013/01/30/2013-reading-list/)
 * [Ruby 2.0 new features](https://github.com/marcandre/ruby/blob/news/NEWS.rdoc)
+* [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
 
 ## Best Practices
 
