@@ -28,3 +28,7 @@
 * [objects on rails online book](http://objectsonrails.com/)
 * [Ruby Science](https://learn.thoughtbot.com/products/13)
 * [Rails 从零到部署](http://about.ac/rails-tutorial-2nd-cn/chapter1.html)
+
+## others
+
+* [webkit for developers](http://paulirish.com/2013/webkit-for-developers/) [中文版本](http://ued.taobao.com/blog/2013/03/webkit-for-developers/)
