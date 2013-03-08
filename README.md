@@ -11,7 +11,7 @@
 * [vim tutorial game](http://www.openvim.com/tutorial.html)
 * [xdite 的 rails 学习列表](http://blog.xdite.net/posts/2013/01/30/2013-reading-list/)
 * [Ruby 2.0 new features](https://github.com/marcandre/ruby/blob/news/NEWS.rdoc)
-* [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
+
 
 ## Best Practices
 
@@ -31,4 +31,6 @@
 
 ## others
 
+* [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
 * [webkit for developers](http://paulirish.com/2013/webkit-for-developers/) [中文版本](http://ued.taobao.com/blog/2013/03/webkit-for-developers/)
+* [Web应用的缓存设计模式](http://robbinfan.com/blog/38/orm-cache-sumup)
