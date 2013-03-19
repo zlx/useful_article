@@ -30,6 +30,9 @@
 * [Ruby Science](https://learn.thoughtbot.com/products/13)
 * [Rails 从零到部署](http://about.ac/rails-tutorial-2nd-cn/chapter1.html)
 
+## Mac
+* [设置 Mac 的默认输入法](http://reviews.cnet.com/8301-13727_7-57453176-263/managing-input-methods-in-os-x/)
+
 ## Others
 
 * [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
