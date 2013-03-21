@@ -14,6 +14,14 @@
 * [Ruby 2.0 new features](https://github.com/marcandre/ruby/blob/news/NEWS.rdoc)
 * [vim shortcut](http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png)
 
+## source code read list
+
+* [Ruby-china](https://github.com/ruby-china/ruby-china) Ruby-china.org 源码
+* [angel_nest](https://github.com/fredwu/angel_nest) 优美的测试
+* [shopqi](https://github.com/saberma/shopqi) 在线构建网店。清晰的代码，良好的测试
+* [code_campo](https://github.com/chloerei/code_campo) 论坛项目
+
+
 
 ## Best Practices
 
