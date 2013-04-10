@@ -42,6 +42,10 @@
 ## Mac
 * [设置 Mac 的默认输入法](http://reviews.cnet.com/8301-13727_7-57453176-263/managing-input-methods-in-os-x/)
 
+
+## Javascript
+* [keyboard shortcuts](http://www.openjs.com/scripts/events/keyboard_shortcuts/)
+
 ## Others
 
 * [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
