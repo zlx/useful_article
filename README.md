@@ -46,6 +46,9 @@
 ## Javascript
 * [keyboard shortcuts](http://www.openjs.com/scripts/events/keyboard_shortcuts/)
 
+## linux
+* [restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2)
+
 ## Others
 
 * [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
