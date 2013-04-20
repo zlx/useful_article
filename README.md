@@ -21,8 +21,6 @@
 * [shopqi](https://github.com/saberma/shopqi) 在线构建网店。清晰的代码，良好的测试
 * [code_campo](https://github.com/chloerei/code_campo) 论坛项目
 
-
-
 ## Best Practices
 
 * [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)  [中文版本](https://github.com/zlx/userful_article/blob/master/best_practices/7_patterns_to_refactor_fat_ActiveRecord_Models.md)
@@ -33,11 +31,12 @@
 * [xdite 第一家公司的协作方式](http://ihower.tw/blog/archives/2369/)
 
 
-## Books
+## Books & Articles
 
 * [objects on rails online book](http://objectsonrails.com/)
 * [Ruby Science](https://learn.thoughtbot.com/products/13)
 * [Rails 从零到部署](http://about.ac/rails-tutorial-2nd-cn/chapter1.html)
+* [Thinking in Ruby--iteye wiki](http://thinkinginruby.group.iteye.com/group/wiki)
 
 ## Mac
 * [设置 Mac 的默认输入法](http://reviews.cnet.com/8301-13727_7-57453176-263/managing-input-methods-in-os-x/)
