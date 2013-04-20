@@ -14,7 +14,7 @@
 * [Ruby 2.0 new features](https://github.com/marcandre/ruby/blob/news/NEWS.rdoc)
 * [vim shortcut](http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png)
 
-## source code read list
+## Source code
 
 * [Ruby-china](https://github.com/ruby-china/ruby-china) Ruby-china.org 源码
 * [angel_nest](https://github.com/fredwu/angel_nest) 优美的测试
@@ -26,7 +26,7 @@
 * [7 Patterns to Refactor Fat ActiveRecord Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)  [中文版本](https://github.com/zlx/userful_article/blob/master/best_practices/7_patterns_to_refactor_fat_ActiveRecord_Models.md)
 
 
-## work style
+## Work Style
 
 * [xdite 第一家公司的协作方式](http://ihower.tw/blog/archives/2369/)
 
@@ -43,10 +43,10 @@
 
 
 ## Javascript
-* [keyboard shortcuts](http://www.openjs.com/scripts/events/keyboard_shortcuts/)
+* [binding Keyboard shortcuts](http://www.openjs.com/scripts/events/keyboard_shortcuts/)
 
-## linux
-* [restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2)
+## Linux
+* [Restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2)
 
 ## Others
 
