@@ -13,6 +13,7 @@
 * [xdite 的 rails 学习列表](http://blog.xdite.net/posts/2013/01/30/2013-reading-list/)
 * [Ruby 2.0 new features](https://github.com/marcandre/ruby/blob/news/NEWS.rdoc)
 * [vim shortcut](http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png)
+* [程序员能力矩阵](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
 
 ## Source code
 
