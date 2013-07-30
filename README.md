@@ -41,6 +41,7 @@
 
 ## Mac
 * [设置 Mac 的默认输入法](http://reviews.cnet.com/8301-13727_7-57453176-263/managing-input-methods-in-os-x/)
+* [截屏快捷键](http://www.take-a-screenshot.org/)
 
 
 ## Javascript
