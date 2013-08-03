@@ -49,6 +49,10 @@
 
 ## Linux
 * [Restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2)
+* 
+
+## Tools
+* [Html To Slim](http://html2slim.herokuapp.com/)
 
 ## Others
 
