@@ -38,6 +38,7 @@
 * [Ruby Science](https://learn.thoughtbot.com/products/13)
 * [Rails 从零到部署](http://about.ac/rails-tutorial-2nd-cn/chapter1.html)
 * [Thinking in Ruby--iteye wiki](http://thinkinginruby.group.iteye.com/group/wiki)
+* [How to validate excel data](http://www.codeproject.com/Articles/442357/Excel-Add-in-Framework-for-Validating-and-Exportin)
 
 ## Mac
 * [设置 Mac 的默认输入法](http://reviews.cnet.com/8301-13727_7-57453176-263/managing-input-methods-in-os-x/)
