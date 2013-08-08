@@ -14,6 +14,7 @@
 * [Ruby 2.0 new features](https://github.com/marcandre/ruby/blob/news/NEWS.rdoc)
 * [vim shortcut](http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png)
 * [程序员能力矩阵](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
+* [VIM 进阶使用](http://ruby-china.org/topics/4478)
 
 ## Source code
 
