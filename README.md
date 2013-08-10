@@ -50,12 +50,14 @@
 * [binding Keyboard shortcuts](http://www.openjs.com/scripts/events/keyboard_shortcuts/)
 
 ## Linux
-* [Restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2)
-* 
+* [Restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2) 
 
 ## Tools
 * [Html To Slim](http://html2slim.herokuapp.com/)
-* [Draw Ascii Diagram](http://www.asciiflow.com/)
+* [Draw Ascii Diagram](http://www.asciiflow.com/) 
+
+## Git
+* [Git Merge vs Git Rebase](http://blog.experimentalworks.net/2009/03/merge-vs-rebase-a-deep-dive-into-the-mysteries-of-revision-control/)
 
 ## Others
 
