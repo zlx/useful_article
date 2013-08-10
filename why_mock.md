@@ -51,4 +51,4 @@
    * [Mock Object](http://www.mockobjects.com/)
    * [Test Double](http://xunitpatterns.com/Test%20Double.html)
    * [An Introduction To Mock Objects In Ruby](http://jamesmead.org/talks/2007-07-09-introduction-to-mock-objects-in-ruby-at-lrug/)
-  * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html )
+   * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html )
