@@ -5,6 +5,7 @@
 * [ruby 函数式编程](https://github.com/JuanitoFatas/Ruby-Functional-Programming/blob/master/RADME-zhCN.md)
 * [thoughtbot guides](https://github.com/thoughtbot/guides) [code review 部分中文版本](http://www.oschina.net/news/38067/github-code-review)
 * [github styleguide](https://github.com/styleguide)
+* [metric code Tools](http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics/)
 
 ## Guides
 
