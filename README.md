@@ -65,4 +65,5 @@
 * [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
 * [webkit for developers](http://paulirish.com/2013/webkit-for-developers/) [中文版本](http://ued.taobao.com/blog/2013/03/webkit-for-developers/)
 * [Web应用的缓存设计模式](http://robbinfan.com/blog/38/orm-cache-sumup)
+* [Rails ActiveSupport::Concern](http://www.zhlwish.com/2012/07/23/rails-activesupport-concern/)
 * [Ruby 1.8 和 Ruby 1.9 encoding](http://blog.grayproductions.net/articles/understanding_m17n) [中文版本](http://about.ac/2012/06/understanding-m17n.html)
