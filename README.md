@@ -17,6 +17,9 @@
 * [程序员能力矩阵](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
 * [VIM 进阶使用](http://ruby-china.org/topics/4478)
 
+## SOHO
+* [如何开始你的 SOHO 之旅](http://terrytai.com/articles/2)
+
 ## Source code
 
 * [Ruby-china](https://github.com/ruby-china/ruby-china) Ruby-china.org 源码
