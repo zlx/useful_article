@@ -19,6 +19,7 @@
 
 ## SOHO
 * [如何开始你的 SOHO 之旅](http://terrytai.com/articles/2)
+* [remote working](https://github.com/greatghoul/remote-working)
 
 ## Source code
 
