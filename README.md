@@ -57,6 +57,7 @@
 
 ## Linux
 * [Restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2) 
+* [同步系统时间](https://wiki.archlinux.org/index.php/Network_Time_Protocol_daemon)
 
 ## Tools
 * [Html To Slim](http://html2slim.herokuapp.com/)
