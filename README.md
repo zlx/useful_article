@@ -21,6 +21,7 @@
 * [如何开始你的 SOHO 之旅](http://terrytai.com/articles/2)
 * [remote working](https://github.com/greatghoul/remote-working)
 * [Remote working Tips](http://suchov.github.io/blog/2013/11/07/work-from-home)
+* [Remote working 文章集锦](https://github.com/greatghoul/remote-working)
 
 ## Source code
 
