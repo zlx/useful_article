@@ -67,6 +67,11 @@
 
 ## Git
 * [Git Merge vs Git Rebase](http://blog.experimentalworks.net/2009/03/merge-vs-rebase-a-deep-dive-into-the-mysteries-of-revision-control/)
+* 
+
+## OAuth 2.0
+
+* [OAuth 2.0](http://blog.yorkxin.org/posts/2013/09/30/oauth2-1-introduction)
 
 ## Others
 
