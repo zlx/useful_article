@@ -86,3 +86,4 @@
 * [Rails ActiveSupport::Concern](http://www.zhlwish.com/2012/07/23/rails-activesupport-concern/)
 * [Ruby 1.8 和 Ruby 1.9 encoding](http://blog.grayproductions.net/articles/understanding_m17n) [中文版本](http://about.ac/2012/06/understanding-m17n.html)
 * [各大网站架构设计集合](http://www.diguage.com/archives/41.html)
+* [GC](http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
