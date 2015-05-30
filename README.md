@@ -64,6 +64,7 @@
 ## Tools
 * [Html To Slim](http://html2slim.herokuapp.com/)
 * [Draw Ascii Diagram](http://www.asciiflow.com/) 
+* [Debug Process Tools](http://dalibornasevic.com/posts/54-how-to-debug-stuck-ruby-processes)
 
 ## Git
 * [Git Merge vs Git Rebase](http://blog.experimentalworks.net/2009/03/merge-vs-rebase-a-deep-dive-into-the-mysteries-of-revision-control/)
@@ -77,6 +78,7 @@
 ## Great Wall
 
 * [蛮好用的DNS方案](https://skyline75489.github.io/my-china-dns.html)
+* [我现在的公司--云梯](http://igetvpn.com/?r=c8892698ee152ac1)
 
 ## Others
 
