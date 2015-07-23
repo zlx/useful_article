@@ -23,6 +23,7 @@
 * [Remote working Tips](http://suchov.github.io/blog/2013/11/07/work-from-home)
 * [Remote working 文章集锦](https://github.com/greatghoul/remote-working)
 * [我如何把薪水从 50人民币/天 提升到 100美元/小时的3](http://terrytai.com/salary-from-50rmb-to100usd-3/)
+* [远程工作资料整理](https://github.com/greatghoul/remote-working/)
 
 ## Source code
 
