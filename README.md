@@ -49,6 +49,7 @@
 * [Rails 从零到部署](http://about.ac/rails-tutorial-2nd-cn/chapter1.html)
 * [Thinking in Ruby--iteye wiki](http://thinkinginruby.group.iteye.com/group/wiki)
 * [How to validate excel data](http://www.codeproject.com/Articles/442357/Excel-Add-in-Framework-for-Validating-and-Exportin)
+* [有意思的后端扩宽视野题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
 ## Mac
 * [设置 Mac 的默认输入法](http://reviews.cnet.com/8301-13727_7-57453176-263/managing-input-methods-in-os-x/)
@@ -74,12 +75,10 @@
 ## OAuth 2.0
 
 * [OAuth 2.0](http://blog.yorkxin.org/posts/2013/09/30/oauth2-1-introduction)
-* 
 
 ## Great Wall
 
-* [蛮好用的DNS方案](https://skyline75489.github.io/my-china-dns.html)
-* [我现在的公司--云梯](http://igetvpn.com/?r=c8892698ee152ac1)
+* [我现在的公司--云梯](http://www.ytpub.com)
 
 ## Others
 
