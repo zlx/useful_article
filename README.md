@@ -50,6 +50,7 @@
 * [Thinking in Ruby--iteye wiki](http://thinkinginruby.group.iteye.com/group/wiki)
 * [How to validate excel data](http://www.codeproject.com/Articles/442357/Excel-Add-in-Framework-for-Validating-and-Exportin)
 * [有意思的后端扩宽视野题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
+* [ES 6 标准入门 － 阮一峰](http://es6.ruanyifeng.com/)
 
 ## Mac
 * [设置 Mac 的默认输入法](http://reviews.cnet.com/8301-13727_7-57453176-263/managing-input-methods-in-os-x/)
