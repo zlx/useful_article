@@ -71,7 +71,6 @@
 
 ## Git
 * [Git Merge vs Git Rebase](http://blog.experimentalworks.net/2009/03/merge-vs-rebase-a-deep-dive-into-the-mysteries-of-revision-control/)
-* 
 
 ## OAuth 2.0
 
@@ -90,3 +89,9 @@
 * [Ruby 1.8 和 Ruby 1.9 encoding](http://blog.grayproductions.net/articles/understanding_m17n) [中文版本](http://about.ac/2012/06/understanding-m17n.html)
 * [各大网站架构设计集合](http://www.diguage.com/archives/41.html)
 * [GC](http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
+
+## 各开源许可区别
+
+![各开源许可区别](http://blog.gitcafe.com/wp-content/uploads/2015/07/bg2011050101.png)
+
+图片来源于阮一峰的博客
