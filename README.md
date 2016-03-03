@@ -78,7 +78,7 @@
 
 ## Great Wall
 
-* [我现在的公司--云梯](http://www.ytpub.com)
+* [帮助你更好地上网－云梯VPN](http://tiziref.com/?r=d41cf45cd1e01d1d)
 
 ## Others
 
