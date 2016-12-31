@@ -92,6 +92,6 @@
 
 ## 各开源许可区别
 
-![各开源许可区别](http://blog.gitcafe.com/wp-content/uploads/2015/07/bg2011050101.png)
+![各开源许可区别](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
 图片来源于阮一峰的博客
