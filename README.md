@@ -1,26 +1,26 @@
 ## Code Style
 
 * [Ruby Code Style](https://github.com/bbatsov/ruby-style-guide)  [中文版本](http://ruby-china.org/wiki/coding-style)
-* [rails Code Style](https://github.com/JuanitoFatas/rails-style-guide) [中文版本](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
-* [ruby 函数式编程](https://github.com/JuanitoFatas/Ruby-Functional-Programming/blob/master/RADME-zhCN.md)
-* [thoughtbot guides](https://github.com/thoughtbot/guides) [code review 部分中文版本](http://www.oschina.net/news/38067/github-code-review)
-* [github styleguide](https://github.com/styleguide)
-* [metric code Tools](http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics/)
+* [Rails Code Style](https://github.com/JuanitoFatas/rails-style-guide) [中文版本](https://github.com/JuanitoFatas/rails-style-guide/blob/master/README-zhCN.md)
+* [Ruby 函数式编程](https://github.com/JuanitoFatas/Ruby-Functional-Programming/blob/master/RADME-zhCN.md)
+* [thoughtbot Guides](https://github.com/thoughtbot/guides) [code review 部分中文版本](http://www.oschina.net/news/38067/github-code-review)
+* [Github Style Guide](https://github.com/styleguide)
+* [Metric Code Tools](http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics/)
 
 ## Guides
 
-* [learn vim progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
-* [vim tutorial game](http://www.openvim.com/tutorial.html)
-* [xdite 的 rails 学习列表](http://blog.xdite.net/posts/2013/01/30/2013-reading-list/)
+* [Learn vim progressively](http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/)
+* [Vim tutorial game](http://www.openvim.com/tutorial.html)
+* [Xdite 的 rails 学习列表](http://blog.xdite.net/posts/2013/01/30/2013-reading-list/)
 * [Ruby 2.0 new features](https://github.com/marcandre/ruby/blob/news/NEWS.rdoc)
-* [vim shortcut](http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png)
+* [Vim shortcut](http://walking-without-crutches.heroku.com/image/images/vi-vim-cheat-sheet.png)
 * [程序员能力矩阵](http://static.icybear.net/%5BCN%5DProgrammer%20competency%20matrix.htm)
 * [VIM 进阶使用](http://ruby-china.org/topics/4478)
 * [提问的智慧](https://github.com/ruby-china/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 ## SOHO
 * [如何开始你的 SOHO 之旅](http://terrytai.com/articles/2)
-* [remote working](https://github.com/greatghoul/remote-working)
+* [Remote working](https://github.com/greatghoul/remote-working)
 * [Remote working Tips](http://suchov.github.io/blog/2013/11/07/work-from-home)
 * [Remote working 文章集锦](https://github.com/greatghoul/remote-working)
 * [我如何把薪水从 50人民币/天 提升到 100美元/小时的3](http://terrytai.com/salary-from-50rmb-to100usd-3/)
@@ -29,9 +29,9 @@
 ## Source code
 
 * [Ruby-china](https://github.com/ruby-china/ruby-china) Ruby-china.org 源码
-* [angel_nest](https://github.com/fredwu/angel_nest) 优美的测试
-* [shopqi](https://github.com/saberma/shopqi) 在线构建网店。清晰的代码，良好的测试
-* [code_campo](https://github.com/chloerei/code_campo) 论坛项目
+* [Angel_nest](https://github.com/fredwu/angel_nest) 优美的测试
+* [Shopqi](https://github.com/saberma/shopqi) 在线构建网店。清晰的代码，良好的测试
+* [Code_campo](https://github.com/chloerei/code_campo) 论坛项目
 
 ## Best Practices
 
@@ -45,7 +45,7 @@
 
 ## Books & Articles
 
-* [objects on rails online book](http://objectsonrails.com/)
+* [Objects on rails online book](http://objectsonrails.com/)
 * [Ruby Science](https://learn.thoughtbot.com/products/13)
 * [Rails 从零到部署](http://about.ac/rails-tutorial-2nd-cn/chapter1.html)
 * [Thinking in Ruby--iteye wiki](http://thinkinginruby.group.iteye.com/group/wiki)
@@ -59,7 +59,7 @@
 
 
 ## Javascript
-* [binding Keyboard shortcuts](http://www.openjs.com/scripts/events/keyboard_shortcuts/)
+* [Binding Keyboard shortcuts](http://www.openjs.com/scripts/events/keyboard_shortcuts/)
 
 ## Linux
 * [Restore grub2](http://wiki.sabayonlinux.org/index.php?title=HOWTO:_Restore_Grub2) 
@@ -84,7 +84,7 @@
 ## Others
 
 * [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
-* [webkit for developers](http://paulirish.com/2013/webkit-for-developers/) [中文版本](http://ued.taobao.com/blog/2013/03/webkit-for-developers/)
+* [Webkit for developers](http://paulirish.com/2013/webkit-for-developers/) [中文版本](http://ued.taobao.com/blog/2013/03/webkit-for-developers/)
 * [Web应用的缓存设计模式](http://robbinfan.com/blog/38/orm-cache-sumup)
 * [Rails ActiveSupport::Concern](http://www.zhlwish.com/2012/07/23/rails-activesupport-concern/)
 * [Ruby 1.8 和 Ruby 1.9 encoding](http://blog.grayproductions.net/articles/understanding_m17n) [中文版本](http://about.ac/2012/06/understanding-m17n.html)
