@@ -77,10 +77,6 @@
 
 * [OAuth 2.0](http://blog.yorkxin.org/posts/2013/09/30/oauth2-1-introduction)
 
-## Great Wall
-
-* [帮助你更好地上网－云梯VPN](http://tiziref.com/?r=d41cf45cd1e01d1d)
-
 ## Others
 
 * [有抱负的程序员应看的10个TED演讲](http://blog.jobbole.com/33797/)
